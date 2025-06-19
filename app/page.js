@@ -4,7 +4,7 @@ import Header from "@/components/header";
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <main className="w-full bg-blue-950 flex justify-center ">
       <Header />
       {/* <Navbar /> */}
     
